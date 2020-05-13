@@ -1,2 +1,1 @@
-
-<img src="https://github.com/tommybryan96/Practice/blob/master/image/profilePic.png" 100>
+![](https://github.com/tommybryan96/Practice/blob/master/image/profilePic.png)
