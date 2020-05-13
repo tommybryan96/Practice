@@ -1,1 +1,1 @@
-![](https://github.com/tommybryan96/Practice/blob/master/image/profilePic.png =100x100)
+<img src="image/profilePic.png">
