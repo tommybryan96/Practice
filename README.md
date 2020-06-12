@@ -1,8 +1,5 @@
 ## My Info
-<<<<<<< HEAD
 
-=======
->>>>>>> 3c6567fc686db27a5a5144b68646518656346f8b
 Name: Tommy Bryan Helon <br>
 
 Matric Number: 253444
